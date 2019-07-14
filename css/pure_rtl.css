@@ -1,0 +1,30 @@
+html {
+    /*direction: rtl;*/
+}
+body {
+    direction: rtl;
+}
+
+.pure-g{
+    direction: rtl !important;
+}
+.pure-form{
+    direction: rtl;
+    text-align: right;
+}
+.pure-button{
+    direction: rtl;
+}
+.debug{
+    border:1px solid red;
+}
+.pure-table{
+  direction: rtl;
+}
+.pure-table thead {
+    text-align: right;
+}
+.pure-menu{
+    direction: rtl;
+}
+
